@@ -12,6 +12,7 @@
     <modules>
         <module>monkey-api-encrypt-core</module>
         <module>monkey-api-encrypt-springboot-example</module>
+        <module>sm_2_3_4</module>
     </modules>
     
 </project>
